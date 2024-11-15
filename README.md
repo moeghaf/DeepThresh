@@ -1,4 +1,4 @@
-# DeepIMC-LungThreshold
+# DeepThresh
 DeepThresh deep-learning approach created for the segmentation and thresholding of imaging mass cytometry (IMC) data within the landscape of lung tissues.
 
 ## Model
