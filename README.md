@@ -6,7 +6,7 @@ The model was built using Pytorch, with a ResNet encoder and UNet decoder and a 
 
 
 ## Data 
-The project focuses on imaging mass cytometry data, comprising 37 channels/proteins. The dataset includes 36 regions of interest, with six expert annotated by a biologist. For robust training, four images are for training, one for validation, and one for testing. Images are split into overlapping windows, enhancing training via data augmentation.
+The project focuses on imaging mass cytometry data, comprising 37 channels/proteins. The dataset includes 36 regions of interest, with six expert annotated by a biologist. For robust training, four images are for training, one for validation, and one for testing.
 
 ## Results 
 Below are some example results: 
