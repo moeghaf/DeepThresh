@@ -10,6 +10,7 @@ The project focuses on imaging mass cytometry data, comprising 37 channels/prote
 
 ## Results 
 Below are some example results: 
+
 ![Alt Text](Results/Nd146_prediction.png)
 
 ![Alt Text](Results/In115_prediction.png)
